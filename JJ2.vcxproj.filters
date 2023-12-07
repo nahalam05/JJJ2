@@ -27,6 +27,12 @@
     <ClCompile Include="sample.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="jebi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mugunghwa.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="jjuggumi.dat">

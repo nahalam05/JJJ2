@@ -108,6 +108,12 @@ void sample(void) {
 		display();
 		Sleep(10);
 		tick += 10;
+
+		if (tick == 1000) {
+			dialog("게임중지");
+			Sleep(1000);
+
+		}
 	}
 }
 //hello hc
